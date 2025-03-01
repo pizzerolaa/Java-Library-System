@@ -115,3 +115,15 @@ This will create a `librarydb.mv.db` file in the `data` folder, allowing data to
 - `GET /api/library/patrons` - Get all patrons.
 - `POST /api/library/patrons` - Register a new patron.
 
+---
+
+## Screenshots
+
+### Frontend
+![Frontend Screenshot](images/front.png)
+The frontend interface for managing books and patrons.
+
+### H2 Database Console
+![H2 Console Screenshot](images/back.png)
+The H2 database console for viewing and managing the database.
+
