@@ -23,7 +23,7 @@ This is a **Library Management System** built using **Spring Boot** for the back
 ## Technologies Used
 
 - **Backend**: Spring Boot (Java)
-- **Frontend**: HTML, JavaScript, Bootstrap
+- **Frontend**: HTML, JavaScript
 - **Database**: H2 (in-memory or file-based)
 - **Build Tool**: Maven
 
